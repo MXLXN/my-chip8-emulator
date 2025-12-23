@@ -218,7 +218,6 @@ int main(int argc, char* argv[])
         }
 
         U16 opcode = fetchopcode();
-        printf("fetched %04X | v[0] = %02X\n", opcode, v[0]);
         dxopcode(opcode);
 
         while (SDL_PollEvent(&event)) 
