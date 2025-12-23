@@ -9,3 +9,24 @@ You can find games in this github repository: https://github.com/kripod/chip8-ro
 Make sure they are in the same folder as the binary file, so you can run them on the emulator.
 
 Most games from that repository are supposed to work..
+
+original keyboard:
+
+1 2 3 C
+
+4 5 6 D
+
+7 8 9 E
+
+A 0 B F
+
+emulator keyboard imitates original one, just different buttons:
+
+1 2 3 4
+
+Q W E R
+
+A S D F
+
+Z X C V
+
