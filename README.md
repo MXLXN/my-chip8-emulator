@@ -7,3 +7,5 @@ If you have the binary, open the terminal in the folder where the binary file is
 You can find games in this github repository: https://github.com/kripod/chip8-roms
 
 Make sure they are in the same folder as the binary file, so you can run them on the emulator.
+
+Most games from that repository are supposed to work..
