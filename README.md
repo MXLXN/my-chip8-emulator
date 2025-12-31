@@ -1,5 +1,3 @@
-My first project that is 500+ LOC
-
 To compile, run make in project folder.
 
 If you have the binary, open the terminal in the folder where the binary file is, type ./binary-file-name game-name
