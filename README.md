@@ -1,3 +1,6 @@
+no wrap around of sprites, and no audio
+
+
 To compile, run make in project folder.
 
 If you have the binary, open the terminal in the folder where the binary file is, type ./binary-file-name game-name
